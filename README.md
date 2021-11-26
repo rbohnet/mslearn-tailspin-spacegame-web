@@ -1,4 +1,6 @@
 
+[![Build Status](https://rbohnet.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/rbohnet.mslearn-tailspin-spacegame-web?branchName=main)](https://rbohnet.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=3&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
